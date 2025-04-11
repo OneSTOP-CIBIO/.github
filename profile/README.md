@@ -1,4 +1,4 @@
-# OneSTOP-BIOPOLIS/CIBIO GitHub Hub
+# OneSTOP-CIBIO/BIOPOLIS GitHub Hub
 
 This repository serves as the main hub for code, data, and tools developed by BIOPOLIS/CIBIO-InBIO within the OneSTOP project an EU-funded initiative aimed at enhancing biosecurity and managing terrestrial invasive alien species (IAS).
 
